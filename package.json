@@ -1,0 +1,14 @@
+{
+  "name": "canvas-ui",
+  "version": "1.0.0",
+  "description": "This module allows constructing templated UIs renderred in canvas",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Hatry1337 (Thomas Sidereal)"
+  },
+  "license": "MIT"
+}
