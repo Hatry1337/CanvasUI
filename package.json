@@ -10,5 +10,11 @@
   "author": {
     "name": "Hatry1337 (Thomas Sidereal)"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0"
+  }
 }
